@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Contact
+### Contact
 
-## Primary Tech Stack
+### Primary Tech Stack
